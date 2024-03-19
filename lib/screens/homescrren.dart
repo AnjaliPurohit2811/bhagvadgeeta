@@ -16,7 +16,7 @@ class _HomeScreenState extends State<HomeScreen> {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Colors.amberAccent,
-        title: Text(
+        title: const Text(
           'श्रीमद भगवत गीता',
           style: TextStyle(color: Colors.white, fontSize: 20 , fontWeight: FontWeight.w600),
         ),
@@ -48,7 +48,7 @@ class _HomeScreenState extends State<HomeScreen> {
                 Container(
                   height: height * 0.6,
                   width: width * 0.9,
-                  decoration: BoxDecoration(
+                  decoration: const BoxDecoration(
                     color: Colors.white,
                     borderRadius: BorderRadius.all(Radius.circular(15)),
                   ),
@@ -73,9 +73,9 @@ class _HomeScreenState extends State<HomeScreen> {
                             child: Row(
                               children: [
                                 Image.asset('asset/img/i2.jpg'),
-                                Padding(
+                                const Padding(
                                   padding:
-                                  const EdgeInsets.only(top: 8.0, left: 20),
+                                  EdgeInsets.only(top: 8.0, left: 20),
                                   child: Text(
                                     'भगवद गीता',
                                     style: TextStyle(fontSize: 28),
@@ -108,9 +108,9 @@ class _HomeScreenState extends State<HomeScreen> {
                                       height: height * 0.09,
                                       child: Image.asset('asset/img/i3.jpg')),
                                 ),
-                                Padding(
+                                const Padding(
                                   padding:
-                                  const EdgeInsets.only(top: 8.0, left: 20),
+                                  EdgeInsets.only(top: 8.0, left: 20),
                                   child: Text(
                                     'गीता सार',
                                     style: TextStyle(fontSize: 28),
@@ -143,9 +143,9 @@ class _HomeScreenState extends State<HomeScreen> {
                                       height: height * 0.09,
                                       child: Image.asset('asset/img/i4.jpg')),
                                 ),
-                                Padding(
+                                const Padding(
                                   padding:
-                                  const EdgeInsets.only(top: 8.0, left: 20),
+                                  EdgeInsets.only(top: 8.0, left: 20),
                                   child: Text(
                                     'गीता महात्म्य',
                                     style: TextStyle(fontSize: 28),
@@ -178,9 +178,9 @@ class _HomeScreenState extends State<HomeScreen> {
                                       height: height * 0.09,
                                       child: Image.asset('asset/img/i7.jpg')),
                                 ),
-                                Padding(
+                                const Padding(
                                   padding:
-                                  const EdgeInsets.only(top: 8.0, left: 20),
+                                  EdgeInsets.only(top: 8.0, left: 20),
                                   child: Text(
                                     'गीता आरती',
                                     style: TextStyle(fontSize: 28),

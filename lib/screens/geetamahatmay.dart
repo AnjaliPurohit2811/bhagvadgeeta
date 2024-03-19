@@ -57,7 +57,7 @@ class GeetaMahatmay extends StatelessWidget {
                       height: 3600,
                       width: 410,
                       decoration: BoxDecoration(
-                        color: Color(0xffF4F2DE),
+                        color: Colors.white,
                         borderRadius: BorderRadius.all(Radius.circular(15)),
                       ),
                       child: Column(

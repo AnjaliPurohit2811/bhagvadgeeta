@@ -26,11 +26,11 @@ class _SaarState extends State<Saar> {
             onTap: () {
               Navigator.of(context).pop();
             },
-            child: Icon(
+            child: const Icon(
               Icons.arrow_back,
               color: Colors.white,
             )),
-        title: Text(
+        title: const Text(
           'श्रीमद भगवत गीता',
           style: TextStyle(color: Colors.white, fontSize: 20 , fontWeight: FontWeight.w600),
         ),
@@ -54,7 +54,7 @@ class _SaarState extends State<Saar> {
                 // mainAxisAlignment: MainAxisAlignment.s,
                 children: [
                   Container(
-                    margin: EdgeInsets.only(top: 20),
+                    margin: const EdgeInsets.only(top: 20),
                     height: height * 0.27,
                     width: width * 0.80,
                      // color: Colors.red,
@@ -66,8 +66,8 @@ class _SaarState extends State<Saar> {
                   Container(
                     // height: height * 0.6,
                     width: width,
-                    decoration: BoxDecoration(
-                      color: Color(0xffF4F2DE),
+                    decoration: const BoxDecoration(
+                      color: Colors.white,
                       borderRadius: BorderRadius.all(Radius.circular(30)),
                     ),
                     child: Column(
@@ -93,13 +93,13 @@ class _SaarState extends State<Saar> {
     double width = MediaQuery.of(context).size.width;
 
     return Container(
-        padding: EdgeInsets.all(20),
-        margin: EdgeInsets.all(20),
+        padding: const EdgeInsets.all(20),
+        margin: const EdgeInsets.all(20),
         // height: height * 0.5,
         width: double.infinity,
         decoration: BoxDecoration(
             color: Colors.white,
-            borderRadius: BorderRadius.all(Radius.circular(8)),
+            borderRadius: const BorderRadius.all(Radius.circular(8)),
             border: Border.all(color: Colors.orange , width: 4),),
         child: Column(
           children: [

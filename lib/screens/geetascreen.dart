@@ -58,7 +58,7 @@ class _BhagavadGeetaState extends State<BhagavadGeeta> {
                     height: 1766,
                     width: 500,
                     decoration: BoxDecoration(
-                      color: Color(0xffF4F2DE),
+                      color: Colors.white,
                       borderRadius: BorderRadius.circular(14),
                     ),
                     child: Padding(

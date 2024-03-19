@@ -63,7 +63,7 @@ class _ShlokState extends State<Shlok> {
                   Container(
                     width: width,
                     decoration: BoxDecoration(
-                      color: Color(0xffF4F2DE),
+                      color: Colors.white,
                       borderRadius: BorderRadius.all(Radius.circular(30)),
                     ),
                     child: Column(
