@@ -16,15 +16,18 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 <p>
-  <img src = "https://github.com/AnjaliPurohit2811/bhagvadgeeta/assets/143180602/44455ffe-3a1c-4859-b2f2-feae114436ce" width = 200 >
-  <img src = "https://github.com/AnjaliPurohit2811/bhagvadgeeta/assets/143180602/bba255e6-102e-4e59-9bf4-0f9ce7b78fff" width = 200 >
-  <img src = "https://github.com/AnjaliPurohit2811/bhagvadgeeta/assets/143180602/7addac52-a810-4020-906b-868eb0ac2c44" width = 200 >
-  <img src = "https://github.com/AnjaliPurohit2811/bhagvadgeeta/assets/143180602/aed6b174-9e18-4dcb-9c10-d2186e885770" width = 200 >
-  <img src = "https://github.com/AnjaliPurohit2811/bhagvadgeeta/assets/143180602/7c4697b7-58bf-4bb2-ab2c-cdbb56e4105e" width = 200 >
-  <img src = "https://github.com/AnjaliPurohit2811/bhagvadgeeta/assets/143180602/ad29eb5a-d815-493d-b3e4-28eabff048d3" width = 200 >
-  <img src = "https://github.com/AnjaliPurohit2811/bhagvadgeeta/assets/143180602/5bb89e11-fa46-4480-a5c8-577deee4ca1f" width = 200 >
+  <img src = "https://github.com/AnjaliPurohit2811/bhagvadgeeta/assets/143180602/ba09329b-8c44-446f-be15-b9edd703b42d" width = 200 >
+  <img src = "https://github.com/AnjaliPurohit2811/bhagvadgeeta/assets/143180602/0c661d3f-5d87-4cc3-b511-2fa9eba632c6" width = 200 >
+  <img src = "https://github.com/AnjaliPurohit2811/bhagvadgeeta/assets/143180602/19e75259-3076-4d3c-8860-a6bbbe998d29" width = 200 >
+  <img src = "https://github.com/AnjaliPurohit2811/bhagvadgeeta/assets/143180602/b953a2c0-c52b-4829-918a-f7c105470e4d" width = 200 >
+  <img src = "https://github.com/AnjaliPurohit2811/bhagvadgeeta/assets/143180602/ac214f4c-18c4-4c2c-a94e-4af9fb0a6a8d" width = 200 >
+  <img src = "https://github.com/AnjaliPurohit2811/bhagvadgeeta/assets/143180602/87edfbd3-3bf6-4e58-b883-4be93b756419" width = 200 >
+  <img src = "https://github.com/AnjaliPurohit2811/bhagvadgeeta/assets/143180602/854c12f5-d3d1-4cdc-93f7-b4559ad98e2f" width = 200 >
 
   
  
 </p>
+
+
+
 
