@@ -88,7 +88,7 @@ class _ShlokState extends State<Shlok> {
     double width = MediaQuery.of(context).size.width;
     return Container(
       padding: const EdgeInsets.symmetric(vertical: 0),
-      margin: const EdgeInsets.symmetric(vertical: 5, horizontal: 8),
+      margin: const EdgeInsets.symmetric(vertical: 15, horizontal: 8),
       decoration:  BoxDecoration(
         color: Colors.white,
         borderRadius: BorderRadius.all(Radius.circular(20)),
@@ -146,22 +146,23 @@ class _ShlokState extends State<Shlok> {
             height: height * 0.05,
             width: width,
             decoration:  BoxDecoration(
-                color: Colors.grey,
-                borderRadius: BorderRadius.circular(18)),
+                border: BorderDirectional(top: BorderSide(color: Colors.orange , width: 3))
+               // borderRadius: BorderRadius.only(bottomLeft: Radius.circular(12.0) , bottomRight: Radius.circular(12))
+               ),
             child: const Row(
                 mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                 children: [
                   Text(
                     'Copy',
                     style: TextStyle(
-                        color: Colors.black,
+                        color: Colors.orange,
                         fontSize: 20,
                         fontWeight: FontWeight.w600),
                   ),
                   Text(
                     'Share',
                     style: TextStyle(
-                        color: Colors.black,
+                        color: Colors.orange,
                         fontSize: 20,
                         fontWeight: FontWeight.w600),
                   ),

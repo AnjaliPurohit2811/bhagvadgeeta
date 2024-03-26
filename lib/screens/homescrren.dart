@@ -28,8 +28,9 @@ class _HomeScreenState extends State<HomeScreen> {
             child: Column(
               children: [
                 Container(
-                  height: height * 0.35,
-                  width: width * 0.90,
+                  margin: EdgeInsets.fromLTRB(32, height*0.060, 0, 0),
+                  height: height * 0.20,
+                  width: width * 0.80,
                   child: Image.asset('asset/img/b.png',fit: BoxFit.cover,),
                 ),
               ],

@@ -51,9 +51,9 @@ class AartiScreenState extends State<AartiScreen> {
               Column(
                 children: [
                   SizedBox(
-                      height: 190,
-                      width: 410,
-                      child: Image.asset('asset/img/b.png')),
+                      height: 150,
+                      width: 300,
+                      child: Image.asset('asset/img/b.png' , fit: BoxFit.cover,)),
                   Container(
                       height: 900,
                       width: 410,

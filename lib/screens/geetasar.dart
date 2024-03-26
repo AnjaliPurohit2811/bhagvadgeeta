@@ -54,8 +54,8 @@ class _SaarState extends State<Saar> {
                 // mainAxisAlignment: MainAxisAlignment.s,
                 children: [
                   Container(
-                    margin: const EdgeInsets.only(top: 20),
-                    height: height * 0.27,
+                    margin: const EdgeInsets.fromLTRB(0,10, 0, 0),
+                    height: height * 0.20,
                     width: width * 0.80,
                      // color: Colors.red,
                      child: Image.asset(

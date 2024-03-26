@@ -49,9 +49,11 @@ class _BhagavadGeetaState extends State<BhagavadGeeta> {
               child: Column(
                 children: [
                   SizedBox(
-                    height: 200,
+                    height: 150,
+                    width: 300,
                     child: Image.asset(
                       'asset/img/b.png',
+                      fit: BoxFit.cover,
                     ),
                   ),
                   Container(

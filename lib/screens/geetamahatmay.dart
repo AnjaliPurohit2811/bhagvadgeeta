@@ -50,9 +50,9 @@ class GeetaMahatmay extends StatelessWidget {
               Column(
                 children: [
                   SizedBox(
-                      height: 190,
-                      width: 410,
-                      child: Image.asset('asset/img/b.png')),
+                      height: 150,
+                      width: 300,
+                      child: Image.asset('asset/img/b.png' , fit: BoxFit.cover,)),
                   Container(
                       height: 3600,
                       width: 410,
